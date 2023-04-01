@@ -1,0 +1,13 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/chyha/Desktop/Unity-Basics-mechanics/platforms 2 go up and down/WebBuild;C:/Users/chyha/Desktop/platforms 2 go up and down/Build;;;;;;;;\"}"
+            }
+        ]
+    }
+}
